@@ -2,7 +2,7 @@
 
 ### Welcome to my journey! 🤩
 
-C++, C, Python, Core Java, HTML, CSS, Bootstrap, JavaScript, PHP, MySQL, MATLAB, Machine Learning are my attributes, still counting.
+C++, C, Python, Java, HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, MongoDB, PHP, MySQL are my attributes, still counting.
 <br/>
 - I am a certified Microsoft Technology Associate(MTA) in Python and JavaScript.
 - I am also the recipient of Google Udacity Scholarship for Web Development.
