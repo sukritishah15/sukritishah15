@@ -4,9 +4,10 @@
 
 C++, C, Python, Java, HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, MongoDB, PHP, MySQL are my attributes, still counting.
 <br/>
+- I will be joining American Express as an Intern this January.
 - I am a certified Microsoft Technology Associate(MTA) in Python and JavaScript.
 - I am also the recipient of Google Udacity Scholarship for Web Development.
-- I am Flipkart #GirlsWannaCode Finalist and Scholar.
+- I am a Flipkart #GirlsWannaCode Finalist and Scholar.
 - I am a National CSI Student Convention Winner in Coding.
 - I have mentored more than 200 students for Git and GitHub.
 - I have been an open source contributor at GirlScript Summer of Code 2020 and HakinCodes - Contributor's Hack 2020
