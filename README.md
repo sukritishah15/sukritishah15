@@ -4,7 +4,7 @@
 
 C++, C, Python, Java, HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, MongoDB, PHP, MySQL are my attributes, still counting.
 <br/>
-- I will be joining American Express as an Intern this January.
+- I will be joining D.E. Shaw Group as an Intern from January,2021 and Member Technical from July,2021.
 - I am a certified Microsoft Technology Associate(MTA) in Python and JavaScript.
 - I am also the recipient of Google Udacity Scholarship for Web Development.
 - I am a Flipkart #GirlsWannaCode Finalist and Scholar.
