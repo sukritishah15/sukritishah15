@@ -23,7 +23,7 @@ Besides coding, Robotics lures me.
 ### Find me here -
 
 <a align="left" href="https://www.linkedin.com/in/sukriti-shah/">
-  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img padding-right="30px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a align="left" href="mailto:sukritishah15@gmail.com">
   <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
