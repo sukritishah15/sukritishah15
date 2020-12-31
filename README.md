@@ -20,20 +20,17 @@ Besides coding, Robotics lures me.
 ![Sukriti's github stats](https://github-readme-stats.vercel.app/api?username=sukritishah15&count_private=true)
 
 
-### Find me here -
+### Find me here - 
 
-<a align="left" href="https://www.linkedin.com/in/sukriti-shah/">
-  <img padding-right="30px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sukriti-shah/">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a align="left" href="mailto:sukritishah15@gmail.com">
-  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:sukritishah15@gmail.com">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a align="left" href="https://medium.com/@sukritishah15">
-  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://medium.com/@sukritishah15">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a align="left" href="https://twitter.com/SukritiShah15">
-  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/SukritiShah15">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-
-
