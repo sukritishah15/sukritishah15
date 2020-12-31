@@ -34,7 +34,9 @@ Besides coding, Robotics lures me.
 <a href="https://twitter.com/SukritiShah15">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
+<a href="https://twitter.com/SukritiShah15">
+  <img align="left" width="30px" src="https://www.flaticon.com/free-icon/twitter_733579?term=twitter&page=1&position=3&related_item_id=733579" />
+</a>
 </p>
 
 
