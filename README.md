@@ -20,8 +20,8 @@ Besides coding, Robotics lures me.
 ![Sukriti's github stats](https://github-readme-stats.vercel.app/api?username=sukritishah15&count_private=true)
 
 
-### Find me here - 
-
+<h3 align="center"> Find me here - </h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/sukriti-shah/">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -34,5 +34,7 @@ Besides coding, Robotics lures me.
 <a href="https://twitter.com/SukritiShah15">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
+</p>
 
 
