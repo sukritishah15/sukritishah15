@@ -20,20 +20,20 @@ Besides coding, Robotics lures me.
 ![Sukriti's github stats](https://github-readme-stats.vercel.app/api?username=sukritishah15&count_private=true)
 
 
-<h3 align="center"> Find me here - </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/sukriti-shah/">
+### Find me here -
+
+<a align="left" href="https://www.linkedin.com/in/sukriti-shah/">
   <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:sukritishah15@gmail.com">
+<a align="left" href="mailto:sukritishah15@gmail.com">
   <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://medium.com/@sukritishah15">
+<a align="left" href="https://medium.com/@sukritishah15">
   <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://twitter.com/SukritiShah15">
+<a align="left" href="https://twitter.com/SukritiShah15">
   <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-</p>
+
 
 
