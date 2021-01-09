@@ -48,7 +48,7 @@ https://github.com/arturssmirnovs/github-profile-readme-generator
 |---|
 -->
 
-<table align="center">
+<table align="center" style="color: green">
   <tr>
     <td colspan="8">
       <h3 align="center">Let's connect and chat!</h3>
