@@ -87,7 +87,7 @@ https://github.com/arturssmirnovs/github-profile-readme-generator
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>
 </a>
 <a href="https://questinsatiable.wordpress.com/">
-  img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>
 </a>
 <a href="https://www.quora.com/profile/Sukriti-Shah-1">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' height='40'>
