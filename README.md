@@ -77,3 +77,18 @@ https://github.com/arturssmirnovs/github-profile-readme-generator
 <a href="https://www.youtube.com/channel/UCOFbpEfqkzG-5hhMEaopnww">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>
 </a>
+<a href="https://www.reddit.com/user/sukriti15">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>
+</a>
+<a href="https://questinsatiable.wordpress.com/">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
+</a>
+<a href="https://medium.com/@sukritishah15">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>
+</a>
+<a href="https://questinsatiable.wordpress.com/">
+  img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>
+</a>
+<a href="https://www.quora.com/profile/Sukriti-Shah-1">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' height='40'>
+</a>
