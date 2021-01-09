@@ -19,8 +19,9 @@ Besides coding, Robotics lures me.
 
 ![Sukriti's github stats](https://github-readme-stats.vercel.app/api?username=sukritishah15&count_private=true)
 
-
+<!--
 ### Find me here - 
+-->
 
 <!--
 <a href="https://www.linkedin.com/in/sukriti-shah/">
@@ -50,7 +51,7 @@ https://github.com/arturssmirnovs/github-profile-readme-generator
 <table align="center">
   <tr>
     <td colspan="8">
-      <h3>Let's connect and chat!</h3>
+      <h3 align="center">Let's connect and chat!</h3>
     </td>
   </tr>
   <tr>
