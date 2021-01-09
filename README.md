@@ -49,12 +49,12 @@ https://github.com/arturssmirnovs/github-profile-readme-generator
 -->
 
 <table align="center">
-  <tr>
+  <tr style="background-color:#FFFFFF">
     <td colspan="8">
       <h2 align="center"><strong>Let's connect and chat!</strong></h2>
     </td>
   </tr>
-  <tr>
+  <tr style="background-color:#FFFFFF">
     <td>
       <a href="https://github.com/sukritishah15">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
@@ -96,12 +96,12 @@ https://github.com/arturssmirnovs/github-profile-readme-generator
       </a>
     </td>
   </tr>
-  <tr>
+  <tr style="background-color:#FFFFFF">
     <td colspan="8">
       <p></p>
     </td>
   </tr>
-  <tr>
+  <tr style="background-color:#FFFFFF">
     <td>
       <a href="https://medium.com/@sukritishah15">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>
