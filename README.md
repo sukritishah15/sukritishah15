@@ -47,10 +47,10 @@ https://github.com/arturssmirnovs/github-profile-readme-generator
 |---|
 -->
 
-<table id="t01" style="background-color:#FFFF00;" align="center">
+<table align="center">
   <tr>
-    <td>
-      <p>Let's connect and chat!</p>
+    <td colspan="8">
+      <h3>Let's connect and chat!</h3>
     </td>
   </tr>
   <tr>
