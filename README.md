@@ -46,56 +46,88 @@ https://github.com/arturssmirnovs/github-profile-readme-generator
 
 <table id="t01" style="background-color:#00FF00">
   <tr>
-    <a href="https://github.com/sukritishah15">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-    </a>
-    <a href="https://www.linkedin.com/in/sukriti-shah/">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
-    </a>
-    <a href="https://www.facebook.com/100008640494246">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
-    </a>
-    <a href="https://www.instagram.com/sukriti_shah.ss/">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
-    </a>
-    <a href="https://twitter.com/SukritiShah_SS">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
-    </a>
-    <a href="https://www.youtube.com/channel/UCOFbpEfqkzG-5hhMEaopnww">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>
-    </a>
-    <a href="https://www.quora.com/profile/Sukriti-Shah-1">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' height='40'>
-    </a>
-    <a href="https://questinsatiable.wordpress.com/">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
-    </a>
+    <td>
+      <a href="https://github.com/sukritishah15">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/sukriti-shah/">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.facebook.com/100008640494246">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/sukriti_shah.ss/">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/SukritiShah_SS">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/channel/UCOFbpEfqkzG-5hhMEaopnww">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.quora.com/profile/Sukriti-Shah-1">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://questinsatiable.wordpress.com/">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
+      </a>
+    </td>
   </tr>
   <tr>
-    <a href="https://medium.com/@sukritishah15">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>
-    </a>
-    <a href="https://questinsatiable.wordpress.com/">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>
-    </a>
-    <a href="https://dev.to/sukritishah15">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>
-    </a>
-    <a href="https://sukriti-shah.hashnode.dev/">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>
-    </a>
-    <a href="https://codepen.io/sukriti15">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>
-    </a>
-    <a href="https://codesandbox.io/u/sukritishah15">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>
-    </a>
-    <a href="https://stackoverflow.com/users/12825171">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>
-    </a>
-    <a href="https://www.reddit.com/user/sukriti15">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>
-    </a>
+    <td>
+      <a href="https://medium.com/@sukritishah15">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://questinsatiable.wordpress.com/">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://dev.to/sukritishah15">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://sukriti-shah.hashnode.dev/">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://codepen.io/sukriti15">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://codesandbox.io/u/sukritishah15">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://stackoverflow.com/users/12825171">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.reddit.com/user/sukriti15">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>
+      </a>
+    </td>
   </tr>
 </table>
 
