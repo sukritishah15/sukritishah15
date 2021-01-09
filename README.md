@@ -50,6 +50,11 @@ https://github.com/arturssmirnovs/github-profile-readme-generator
 <table id="t01" style="background-color:#FFFF00;" align="center">
   <tr>
     <td>
+      <p>Let's connect and chat!</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/sukritishah15">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
       </a>
