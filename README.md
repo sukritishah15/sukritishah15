@@ -48,10 +48,10 @@ https://github.com/arturssmirnovs/github-profile-readme-generator
 |---|
 -->
 
-<table align="center" style="color: green">
+<table align="center">
   <tr>
     <td colspan="8">
-      <h3 align="center">Let's connect and chat!</h3>
+      <h2 align="center"><strong>Let's connect and chat!</strong></h2>
     </td>
   </tr>
   <tr>
@@ -94,6 +94,11 @@ https://github.com/arturssmirnovs/github-profile-readme-generator
       <a href="https://questinsatiable.wordpress.com/">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      <p></p>
     </td>
   </tr>
   <tr>
