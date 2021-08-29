@@ -4,7 +4,8 @@
 
 C++, C, Python, Java, HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, MongoDB, PHP, MySQL are my attributes, still counting.
 <br/>
-- I will be joining D.E. Shaw Group as an Intern from January,2021 and Member Technical from July,2021.
+- I am currently working as Member Technical at D.E. Shaw India, starting from July,2021.
+- I worked as an intern at D.E. Shaw India, for 5 months, starting from January, 2021 to May, 2021.
 - I am a certified Microsoft Technology Associate(MTA) in Python and JavaScript.
 - I am also the recipient of Google Udacity Scholarship for Web Development.
 - I am a Flipkart #GirlsWannaCode Finalist and Scholar.
